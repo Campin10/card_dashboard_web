@@ -25,7 +25,7 @@ Card Dashboard Web is a frontend application built with Next.js that interacts w
 1. **Node.js**: Ensure Node.js is installed. This project uses Node.js version `>=20.17.0`.
 
 2. **Card Dashboard API**: Ensure that the backend API is up and running. Follow these steps to set up the API:
-   - [Clone the Card Dashboard API repository](<your-api-repository-url>).
+   - [Clone the Card Dashboard API repository](<https://github.com/Campin10/card_dashboard_api>).
 
 ## Setup and Installation
 
